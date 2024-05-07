@@ -1,24 +1,5 @@
-# HRS Guidebook Test
-## It's going to change the world
+# <span style="color: #1c6c8c; font-family: cambria">Using Health and Retirement <br> Study Data </span>
+### <span style="color: #147ca4; font-family: cambria">A GUIDE FOR NEW USERS</span>
+<br>
 
-> An awesome guidebook.
-
-And this would just be the normal text. Ah yes, very good point.
-
-- bullet point
-- another one
-
-Links are put in [these] leading somewhere
-
-> can create \
-> a bar \
-> with multiple \
-> of these ">"
-
-## change the world it did
-
-- good point
-- another good point
-
-[//]: # (reference links - this hides the text from preview)
-[these]: <https://docsify.js.org/#/more-pages>
+#### <span style="color: #147ca4; font-family: cambria">Date <br> Amanda Sonnega, PhD</span>

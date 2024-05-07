@@ -1,3 +1,3 @@
 - [Home](/)
-    - [page1](hrs1.md)  
+    - [Chapter 1. Introduction](hrs1.md)  
     - [page2](hrs2.md) 
