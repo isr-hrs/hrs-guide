@@ -1,0 +1,21 @@
+/* 
+
+stylesheet master
+
+To be applied across all pages of the guidebook 
+created: 6/8/24
+creator: ava schmidt
+email: avajian@umich.edu
+
+*/
+
+.hrs-text {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 25px;
+}
+
+
+.hrs-header {
+    color: #147ca4;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
