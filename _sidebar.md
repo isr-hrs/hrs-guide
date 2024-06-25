@@ -11,6 +11,9 @@
 
     - [Chapter 2. Survey Design](chapter-2/hrs2.md)
         - [HRS multistage complex design](chapter-2/hrs2.md#hrs-multistage-complex-design)
+        - [Creating a Longitudinal Cohort](chapter-2/hrs2.md#creating-a-longitudinal-cohort)
+        - [Who is Interviewed](chapter-2/hrs2.md#who-is-interviewed)
+        - [Interview modes and design features](chapter-2/hrs2.md#interview-modes-and-design-features)
 
     - [Chapter 3. Survey Content](chapter-3/hrs3.md)
         - [Designing a multidisciplinary study](chapter-3/hrs3.md#designing-a-multidisciplinary-study)

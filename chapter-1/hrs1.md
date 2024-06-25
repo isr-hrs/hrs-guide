@@ -1,11 +1,6 @@
 <!-- Chapter 1 Introduction -->
 
 
-<head>
-    <link href="stylesheet/stylesheet-master.css" type="text/css" rel="stylesheet">
-</head>
-
-
 # <span style="color: #147ca4; font-family: cambria"> Chapter 1. Introduction</span>
 
 

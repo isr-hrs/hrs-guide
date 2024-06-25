@@ -15,7 +15,24 @@ email: avajian@umich.edu
 }
 
 
-.hrs-header {
+.markdown-section header {
     color: #147ca4;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a,
+.markdown-section a {
+  color: #0a708f;
+}
+
+a:hover,
+a:focus,
+.markdown-section a:hover,
+.markdown-section a:focus {
+  color: #0c97c1;
+}
+
+a:active,
+.markdown-section a:active {
+  color: #25bdeb;
 }

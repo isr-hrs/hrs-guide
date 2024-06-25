@@ -1,9 +1,5 @@
 <!-- Front Matter -->
 
-<head>
-    <link href="stylesheet/stylesheet-master.css" type="text/css" rel="stylesheet">
-</head>
-
 <!-- TO DO: add HRS logo image -->
 
 ## <span style="color: #1c6c8c; font-family: cambria"> hrs.isr.umich.edu </span>
