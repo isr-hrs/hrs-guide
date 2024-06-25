@@ -36,3 +36,25 @@ a:active,
 .markdown-section a:active {
   color: #25bdeb;
 }
+
+.table-style tr th {
+  background-color: #008aaeff;
+  color: white;
+  line-height: 2;
+  border: 2px solid white;
+  border-spacing:0 30px;
+}
+
+.table-style tr td {
+  text-align: center;
+  line-height: 1.5;
+  border: 2px solid white;
+}
+
+.table-style tr:nth-child(even) {
+  background-color: #cad9e3ff;
+}
+
+.table-style tr:nth-child(odd) {
+  background-color: #e6edf2ff;
+}
