@@ -37,6 +37,13 @@ a:active,
   color: #25bdeb;
 }
 
+.table-style {
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .table-style tr th {
   background-color: #008aaeff;
   color: white;
@@ -57,4 +64,15 @@ a:active,
 
 .table-style tr:nth-child(odd) {
   background-color: #e6edf2ff;
+}
+
+.parent {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.child {
+  caption-side: bottom;
+  text-align: left;
+  margin-top: 3%;
 }

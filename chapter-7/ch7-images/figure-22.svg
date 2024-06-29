@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 231.45 222.93">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        font-family: Neighbor-Bd, Neighbor;
+      }
+
+      .cls-3 {
+        letter-spacing: .02em;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: #6f3b96;
+      }
+
+      .cls-4, .cls-7, .cls-8, .cls-9 {
+        font-size: 12px;
+      }
+
+      .cls-4, .cls-9, .cls-10 {
+        font-family: MyriadPro-Bold, 'Myriad Pro';
+        font-weight: 700;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12, .cls-13, .cls-7, .cls-14 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .cls-15 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-5, .cls-16 {
+        stroke-width: 0px;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-17 {
+        letter-spacing: .02em;
+      }
+
+      .cls-7, .cls-8, .cls-9, .cls-16, .cls-18 {
+        fill: #231f20;
+      }
+
+      .cls-7, .cls-9 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: .2px;
+      }
+
+      .cls-19, .cls-14 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6, .cls-18 {
+        font-family: ArialMT, Arial;
+        font-size: 48px;
+      }
+
+      .cls-20 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+
+      .cls-22 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-23 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-24 {
+        letter-spacing: 0em;
+      }
+
+      .cls-25 {
+        letter-spacing: 0em;
+      }
+
+      .cls-26 {
+        letter-spacing: 0em;
+      }
+
+      .cls-27 {
+        letter-spacing: 0em;
+      }
+
+      .cls-28 {
+        letter-spacing: 0em;
+      }
+
+      .cls-29 {
+        letter-spacing: 0em;
+      }
+
+      .cls-30 {
+        letter-spacing: 0em;
+      }
+
+      .cls-31 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-32 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text class="cls-4" transform="translate(52.76 10.04)"><tspan class="cls-29" x="0" y="0">R</tspan><tspan x="7.22" y="0">AND HRS</tspan><tspan class="cls-22" x="56.02" y="0"> </tspan><tspan class="cls-20" x="58" y="0">W</tspan><tspan class="cls-15" x="68.15" y="0">a</tspan><tspan class="cls-31" x="74.34" y="0">v</tspan><tspan x="80.52" y="0">e</tspan></text>
+  <text class="cls-9" transform="translate(.1 158.4)"><tspan class="cls-27" x="0" y="0">W</tspan><tspan class="cls-24" x="10.56" y="0">ho </tspan><tspan class="cls-26" x="26.94" y="0">v</tspan><tspan x="33.22" y="0">ariable</tspan></text>
+  <text class="cls-9" transform="translate(141.37 170.63)"><tspan class="cls-20" x="0" y="0">V</tspan><tspan x="7.13" y="0">ariable s</tspan><tspan class="cls-32" x="52.09" y="0">t</tspan><tspan class="cls-19" x="56.44" y="0">em:</tspan></text>
+  <g id="title">
+    <text class="cls-18" transform="translate(41.01 100.68)"><tspan x="0" y="0">R</tspan></text>
+    <text class="cls-6" transform="translate(78.65 101.25)"><tspan x="0" y="0">6</tspan></text>
+    <text class="cls-18" transform="translate(105.23 101.25)"><tspan x="0" y="0">SH</tspan><tspan class="cls-23" x="66.68" y="0">L</tspan><tspan class="cls-1" x="89.81" y="0">T</tspan></text>
+  </g>
+  <g id="arrow">
+    <rect class="cls-5" x="93.04" y="24.43" width="1.74" height="20.85"/>
+    <polygon class="cls-5" points="93.91 18.37 90.49 24.7 97.32 24.7 93.91 18.37"/>
+  </g>
+  <g id="arrow-2" data-name="arrow">
+    <rect class="cls-16" x="38.89" y="112.72" width="1.74" height="24.1" transform="translate(50.49 255.27) rotate(-167.02)"/>
+    <polygon class="cls-16" points="35.77 142.09 40.44 137.02 33.79 135.49 35.77 142.09"/>
+  </g>
+  <g id="full_arrow" data-name="full arrow">
+    <g id="arrow-3" data-name="arrow">
+      <rect class="cls-16" x="176.88" y="122.3" width="1.74" height="25.6" transform="translate(355.5 270.2) rotate(180)"/>
+      <polygon class="cls-16" points="177.75 155.34 181.16 147.57 174.34 147.57 177.75 155.34"/>
+    </g>
+    <g id="arrow_bridge" data-name="arrow bridge">
+      <rect class="cls-16" x="204.82" y="111.98" width=".93" height="10.32"/>
+      <rect class="cls-16" x="128.12" y="121.88" width="77.63" height=".84"/>
+      <rect class="cls-16" x="128.12" y="112.4" width=".93" height="10.32"/>
+    </g>
+  </g>
+  <text class="cls-8" transform="translate(3.27 191.13)"><tspan class="cls-2" x="0" y="0">R</tspan><tspan class="cls-14" x="6.84" y="0">esponde</tspan><tspan class="cls-13" x="50.46" y="0">n</tspan><tspan class="cls-12" x="57.07" y="0">t</tspan><tspan class="cls-10" x="11.89" y="14.4">S</tspan><tspan class="cls-12" x="18.37" y="14.4">pouse</tspan><tspan class="cls-10" x="2.98" y="28.8">H</tspan><tspan class="cls-12" x="11.25" y="28.8">ousehold</tspan></text>
+  <text class="cls-7" transform="translate(130.74 188.75)"><tspan class="cls-28" x="0" y="0">S</tspan><tspan class="cls-19" x="5.99" y="0">elf-</tspan><tspan class="cls-30" x="22.02" y="0">r</tspan><tspan x="25.82" y="0">epo</tspan><tspan class="cls-3" x="45.25" y="0">r</tspan><tspan class="cls-11" x="49.46" y="0">t</tspan><tspan x="53.36" y="0">ed health</tspan></text>
+  <text class="cls-9" transform="translate(5.6 173.14)"><tspan class="cls-25" x="0" y="0">r</tspan><tspan x="4.46" y="0">e</tspan><tspan class="cls-21" x="10.8" y="0">p</tspan><tspan x="18.01" y="0">o</tspan><tspan class="cls-17" x="24.94" y="0">r</tspan><tspan x="29.75" y="0">ts on:</tspan></text>
+  <rect class="cls-16" x="3.55" y="191.99" width="6.77" height=".42"/>
+  <rect class="cls-16" x="15.18" y="206.48" width="6.77" height=".42"/>
+  <rect class="cls-16" x="7.04" y="220.92" width="6.77" height=".42"/>
+</svg>

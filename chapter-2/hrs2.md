@@ -83,7 +83,35 @@ Figure 4 shows how the enhanced in-person interview plan works. There are two gr
 This means that while core survey data are available every wave on the full sample, the physical, biomarker, and psychosocial measures are available every wave on only half of the full core sample – either A or B – and every four years for all A and B respondents. The enhanced interview can take place at the baseline interview or at follow-up.
 
 
-### <span style="color: red; font-family: cambria"> Insert figure 4 here</span>
+<!-- TO DO: make backgrounds longer and put captions side by side -->
+
+<table class="table-style">
+  <tr>
+    <th>2006</th>
+    <th>2008</th>
+    <th>2010</th>
+    <th>2012</th>
+    <th>2014</th>
+    <th>2016</th>
+    <th>2018</th>
+    <th>2020</th>
+  </tr>
+  <tr>
+    <td>A</td>
+    <td>B</td>
+    <td>A</td>
+    <td>B</td>
+    <td>A</td>
+    <td>B</td>
+    <td>A</td>
+    <td>B</td>
+  </tr>
+  <div class="parent">
+    <caption class="child"> A = First random half sample </caption>
+    <caption class="child"> B = Second random half sample </caption>
+  </div>
+</table>
+
 Figure 4. Design of the enhanced face-to-face interview
 
 The variable EFTFASSIGN can be found in the Tracker file. It is a flag for which sample a given respondent is in, A or B. 

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="figure-11" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 247.37 189.31">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .03em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        fill: #27ade4;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 12px;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: .2px;
+      }
+
+      .cls-8, .cls-4, .cls-9 {
+        fill: #231f20;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5, .cls-14 {
+        fill: #93c954;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14, .cls-16, .cls-9 {
+        font-family: ArialMT, Arial;
+        font-size: 48px;
+      }
+
+      .cls-16 {
+        fill: #28aee4;
+      }
+
+      .cls-17 {
+        letter-spacing: 0em;
+      }
+
+      .cls-18 {
+        letter-spacing: 0em;
+      }
+
+      .cls-19 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-20 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-21 {
+        letter-spacing: .01em;
+      }
+
+      .cls-22 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text class="cls-8" transform="translate(52.76 10.14)"><tspan class="cls-11" x="0" y="0">I</tspan><tspan class="cls-15" x="2.99" y="0">n</tspan><tspan class="cls-2" x="9.6" y="0">t</tspan><tspan x="13.5" y="0">e</tspan><tspan class="cls-1" x="19.51" y="0">r</tspan><tspan class="cls-12" x="23.74" y="0">view se</tspan><tspan class="cls-21" x="60.47" y="0">c</tspan><tspan class="cls-10" x="66" y="0">tion</tspan></text>
+  <text class="cls-8" transform="translate(.1 158.5)"><tspan class="cls-19" x="0" y="0">W</tspan><tspan class="cls-17" x="9.76" y="0">a</tspan><tspan class="cls-18" x="15.44" y="0">v</tspan><tspan x="21.1" y="0">e indic</tspan><tspan class="cls-13" x="54.07" y="0">a</tspan><tspan class="cls-6" x="59.81" y="0">t</tspan><tspan x="63.71" y="0">or</tspan></text>
+  <text class="cls-8" transform="translate(120.39 186.21)"><tspan class="cls-20" x="0" y="0">V</tspan><tspan class="cls-12" x="6.3" y="0">a</tspan><tspan class="cls-7" x="12.08" y="0">r</tspan><tspan class="cls-12" x="16.06" y="0">iable: self-</tspan><tspan class="cls-22" x="66.13" y="0">r</tspan><tspan class="cls-15" x="69.99" y="0">a</tspan><tspan class="cls-2" x="75.73" y="0">t</tspan><tspan x="79.63" y="0">ed health</tspan></text>
+  <g id="title">
+    <text class="cls-16" transform="translate(41.02 100.78)"><tspan x="0" y="0">R</tspan></text>
+    <text class="cls-14" transform="translate(75.04 100.77)"><tspan x="0" y="0">C</tspan></text>
+    <text class="cls-9" transform="translate(109.85 100.78)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-9" transform="translate(138.38 101.35)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-9" transform="translate(163.72 100.78)"><tspan x="0" y="0">1</tspan></text>
+  </g>
+  <g id="arrow">
+    <rect class="cls-5" x="93.04" y="24.53" width="1.74" height="20.85"/>
+    <polygon class="cls-5" points="93.91 18.47 90.49 24.8 97.32 24.8 93.91 18.47"/>
+  </g>
+  <g id="arrow-2" data-name="arrow">
+    <rect class="cls-3" x="38.89" y="112.82" width="1.74" height="24.1" transform="translate(50.47 255.47) rotate(-167.02)"/>
+    <polygon class="cls-3" points="35.77 142.19 40.44 137.12 33.79 135.59 35.77 142.19"/>
+  </g>
+  <g id="full_arrow" data-name="full arrow">
+    <g id="arrow-3" data-name="arrow">
+      <rect class="cls-4" x="155.91" y="132.09" width="1.74" height="25.6" transform="translate(313.56 289.78) rotate(180)"/>
+      <polygon class="cls-4" points="156.78 165.14 160.19 157.36 153.37 157.36 156.78 165.14"/>
+    </g>
+    <g id="arrow_bridge" data-name="arrow bridge">
+      <rect class="cls-4" x="178.59" y="122.15" width=".93" height="10.32"/>
+      <rect class="cls-4" x="120.4" y="132.05" width="59.12" height=".84"/>
+      <rect class="cls-4" x="120.4" y="122.15" width=".93" height="10.32"/>
+    </g>
+  </g>
+</svg>
